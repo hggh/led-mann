@@ -1,0 +1,59 @@
+Handbuch LED Mann
+==================
+
+Inbetriebnahme:
+--------------
+
+ USB Stecker in ein USB Netzteil oder in einen USB Port des 
+ Computers oder Laptop einstecken.
+
+ Der LED Mann benutzt von dem USB Anschluss nur die Stromversorgung.
+
+Modi:
+-----
+
+ Nach dem die Stromversorgung angeschlossen ist, startet die Software
+ die LED im Betriebsmodi "1".
+
+ Beim Benutzen des Tasters (vorsichtig drücken) (vorne, fast mittig) wird der
+ Betriebsmodi geändert.
+
+Betriebsmodi Übersicht:
+-----------------------
+
+  1: LED "pulsiert"
+  2: LED leuchtet
+
+Teile Unterseite:
+-----------------
+
+ 1x Attiny 85 mit eigener Software (China)
+ 1x 10k Ohm Widerstand
+ USB Kabel weiß (China)
+ 120 Ohm Widerstand (Vorwiederstand LED)
+
+Teile Oberseite:
+----------------
+
+  1x 10mm rote LED
+  2x Widerstand für Beine
+  1x Widerstand für "Körper"
+  1x Mini-Taster (China)
+  1x Silberdraht (China)
+
+ Bauteile mit "China" sind direkt aus China bestellt worden mit Lieferzeiten
+ von 3-6 Wochen.
+
+
+Software auf dem Attiny:
+------------------------
+
+ Auf dem Microprozesser arbeitet einige selbst geschriebene Software. Diese kann 
+ unter der URL https://github.com/hggh/led-mann eingesehen werden.
+
+
+Garantie:
+---------
+
+ Der Bastler garantiert Lebenslange Garantie auf die Funktion des LED-Manns. Bei einem
+ defekt muss das Gerät auf eigene Kosten zum Bastler zurückgeschickt werden.
